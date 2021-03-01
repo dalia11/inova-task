@@ -1,0 +1,31 @@
+.auth-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.btn-custom {
+  border: none !important;
+  color: white !important;
+  background-color: #3d1971  !important;
+  font-weight: bold !important;
+}
+
+.login-form {
+  background-color: white;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px;
+  height: 660px;
+}
+select {
+  width: 70px !important;
+  height: 36px;
+}
+
+.post {
+  border: .5px solid black;
+}
